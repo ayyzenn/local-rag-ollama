@@ -1,0 +1,7 @@
+Minimal RAG with Local Ollama
+
+Let’s build a local RAG prototype using:
+
+> Ollama for LLM (llama3)
+> LangChain or pure Python
+> ChromaDB as the vector store

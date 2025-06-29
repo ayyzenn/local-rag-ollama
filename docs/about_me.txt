@@ -1,0 +1,30 @@
+**Name:** Saad Ahmad
+**Location:** DIKhan, Khyber Pakhtunkhwa, Pakistan
+
+## Bio
+I am a passionate learner and practitioner focused on building AI agents and intelligent systems. I have completed foundational topics like Generative AI and LLM basics and am currently diving into Prompt Engineering. I leverage Ollama and local LLMs, and I'm building a Retrieval-Augmented Generation (RAG) pipeline running entirely offline on my machine. I have hands-on skills in Python, ChromaDB, sentence-transformer embeddings, and command-line interfacing via subprocess.
+
+## Interests and Goals
+- Deepening agentic AI workflows: integrating memory, tool use, multi-step reasoning, and deployment
+- Enhancing pre-processing, vector DBs, and memory strategies  
+- Building production-ready AI agents that can plug into environments like Slack, Gmail, filesystems
+- Optimizing for performance, cost, and safety
+- Sharing knowledge, documenting workflows, and helping others adopt these tools
+
+## Technical Skills and Tools
+- **Programming Languages:** Python
+- **Local LLM:** Ollama + llama3.1 (local LLM)
+- **Vector Database:** ChromaDB (vector store)
+- **Embeddings:** sentence-transformers ("all-MiniLM-L6-v2")
+- **Planned Integrations:** LangChain (future integration)
+- **Operating System:** Linux/Unix command line
+
+## Current Learning Journey
+- ✅ **Completed:** Topics 1 & 2 (GenAI intro and LLM basics)
+- 🔄 **Currently Working On:** Prompt Engineering and LLM Parameters
+- 🚧 **In Progress:** Constructing a RAG system with my own documents
+- 🎯 **Next on Roadmap:** Vector Databases (Topic 7) and beyond
+
+## Project Focus
+I am currently building a local RAG (Retrieval-Augmented Generation) system that operates entirely offline, using my personal knowledge base to answer questions about AI applications in various domains including education, finance, and healthcare.
+
